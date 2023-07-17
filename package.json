@@ -11,9 +11,11 @@
   "author": "Creds Protocol <creds.protocol@gmail.com>",
   "license": "ISC",
   "dependencies": {
-    "@spheron/core": "1.0.9",
     "@spheron/compute": "^1.0.4",
-    "commander": "^11.0.0"
+    "@spheron/core": "1.0.9",
+    "commander": "^11.0.0",
+    "fs": "^0.0.1-security",
+    "path": "^0.12.7"
   },
   "devDependencies": {
     "@types/node": "^20.4.2",
